@@ -1,0 +1,4 @@
+a1<>abc<>1<>xxx
+a2<>def<>0<>yyy
+a4<>xyz<>1<>zzz
+b0<>qwe<>1<>qqq
